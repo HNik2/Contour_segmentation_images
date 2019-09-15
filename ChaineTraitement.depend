@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1561741902 source:/home/nikam/Bureau/NewFolder/ChaineTraitement/main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+	<opencv2/core/core.hpp>
+	<opencv2/highgui.hpp>
+	<ctype.h>
+	<stdlib.h>
+	<stdio.h>
+	"fonctions.h"
+
+1561784027 source:/home/nikam/Bureau/NewFolder/ChaineTraitement/fonctions.cpp
+	<stdio.h>
+	<opencv2/opencv.hpp>
+	<opencv2/core/core.hpp>
+	<opencv2/highgui.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<math.h>
+	<string.h>
+	"fonctions.h"
+
+1561784642 /home/nikam/Bureau/NewFolder/ChaineTraitement/fonctions.h
+	<stdio.h>
+	<opencv2/opencv.hpp>
+	<math.h>
+	<opencv2/core/core.hpp>
+	<opencv2/highgui.hpp>
+	<string.h>
+
